@@ -70,6 +70,7 @@ header img {
 .description h3 {
   color: #25a2c3;
   padding-top: 1.1em;
+  font-family: "Montserrat", sans-serif;
 }
 
 .notebook img {
@@ -87,12 +88,18 @@ header img {
 }
 
 .section-3 h4 {
+  font-size: 1.4em;
   font-family: "Montserrat", sans-serif;
-  padding-top: 5em;
+  padding-top: 3em;
+  padding-bottom: 1em;
 }
 
-.section-3 p {
-  padding-top: 1.2em;
+.p-italic {
+  font-style: italic;
+}
+
+.p-min {
+  font-size: 0.6em;
 }
 
 #div {
@@ -120,12 +127,37 @@ header img {
 }
 
 footer {
-  height: 18em;
-  margin-top: 7em;
+  font-size: 0.8em;
   text-align: center;
+  height: 25em;
+  color: white;
+  margin-top: 7em;
   background-color: #25a2c3;
+}
+#footer-content {
+  width: 25%;
+  text-align: left;
+  padding-left: 45%;
+  padding-top: 2em;
+}
+footer a {
+  color: #c8e7f0;
+}
+
+footer h3 {
+  font-size: 2.5em;
+  padding: 1em 0;
+  font-family: "Montserrat", sans-serif;
+}
+
+footer hr {
+  background-color: white;
+  width: 14em;
+  height: 0.1px;
+  border: 0;
+  margin: 2em 0;
 }
 
 i {
-  color: white;
+  color: #c8e7f0;
 }
