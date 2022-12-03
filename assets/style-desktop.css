@@ -77,7 +77,8 @@ header img {
   height: 100%;
   border-radius: 500px;
 }
-* .section-3 {
+
+.section-3 {
   color: white;
   margin: 5em 0;
   text-align: center;
@@ -116,4 +117,15 @@ header img {
   font-family: "Montserrat", sans-serif;
   color: #25a2c3;
   padding: 0.5em 0;
+}
+
+footer {
+  height: 18em;
+  margin-top: 7em;
+  text-align: center;
+  background-color: #25a2c3;
+}
+
+i {
+  color: white;
 }
