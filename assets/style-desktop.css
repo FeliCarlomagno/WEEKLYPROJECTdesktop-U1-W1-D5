@@ -97,8 +97,11 @@ header img {
 .p-italic {
   font-style: italic;
 }
-
 .p-min {
+  line-height: 1em;
+}
+
+.section-3 span {
   font-size: 0.6em;
 }
 
@@ -152,10 +155,17 @@ footer h3 {
 
 footer hr {
   background-color: white;
-  width: 14em;
+  width: 16em;
   height: 0.1px;
   border: 0;
   margin: 2em 0;
+}
+
+footer p {
+  color: #c8e7f0;
+}
+.p-last {
+  padding-left: 1.5em;
 }
 
 i {
