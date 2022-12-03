@@ -56,26 +56,18 @@ header img {
 
 .notebook {
   width: 100%;
-
   max-width: 23em;
   text-align: center;
   display: inline-block;
 }
 
 .description {
-  width: 100%;
-  max-width: 26em;
-  height: 100%;
-  text-align: left;
-  font-size: 0.8em;
   display: inline-block;
 }
 
 .notebook img {
   width: 100%;
-  max-width: 23em;
   height: 100%;
-  margin-top: 5em;
   border-radius: 500px;
 }
 
